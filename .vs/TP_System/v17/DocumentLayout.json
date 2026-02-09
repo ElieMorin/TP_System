@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BART\\System\\TP_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|E:\\BART\\System\\TP_System\\assets\\scripts\\vitalsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vitalsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|e:\\bart\\system\\tp_system\\assets\\scripts\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|E:\\BART\\System\\TP_System\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|E:\\BART\\System\\TP_System\\assets\\scripts\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|E:\\BART\\System\\TP_System\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7A373-7B4C-880C-6B46-C6C89A63F884}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cs",
+              "DocumentMoniker": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI.cs",
+              "ToolTip": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:47:37.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
+              "ToolTip": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:43:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPCDialogue.cs",
+              "DocumentMoniker": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\NPCDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCDialogue.cs",
+              "ToolTip": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\NPCDialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCDialogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:32:55.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VitalsManager.cs",
+              "DocumentMoniker": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\VitalsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VitalsManager.cs",
+              "ToolTip": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\VitalsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VitalsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:51:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\BART\\System\\TP_System\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:40:04.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
