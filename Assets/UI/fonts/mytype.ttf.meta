@@ -1,29 +1,22 @@
 fileFormatVersion: 2
-guid: b6349d08a5335cd4aa534282435d11cc
+guid: 04e9f675ba3b81643b6c860b2b3096ce
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 88
+  fontSize: 90
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: PixelFont
   fontNames:
-  - PixelFont
-  fallbackFontReferences: []
+  - My type of font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ba4ba1b79f79cf84984221dcee314b4c, type: 3}
   customCharacters: 
-  fontRenderingMode: 0
+  fontRenderingMode: 2
   ascentCalculationMode: 1
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 165012
-  packageName: Simple Free Pixel art styled UI pack
-  packageVersion: 1.15
-  assetPath: Assets/SimplePixelUI/fonts/Font1/pixelfont.ttf
-  uploadId: 362088
